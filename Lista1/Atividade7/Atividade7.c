@@ -1,3 +1,9 @@
+/*
+Receba o valor do salário mínimo e o valor do salário de um funcionário. O algoritmo
+deve calcular e apresentar a quantidade de salários mínimos que esse funcionário
+recebe.
+*/
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
