@@ -1,3 +1,8 @@
+/*
+Faça um programa que receba o salário de um funcionário, calcule e mostre o novo
+salário, sabendo-se que ele teve um aumento de 25%.
+*/
+  
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
