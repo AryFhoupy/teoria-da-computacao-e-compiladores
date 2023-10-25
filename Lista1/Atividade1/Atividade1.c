@@ -1,3 +1,5 @@
+//Receba três notas, calcule e apresente a média aritmética delas.
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
