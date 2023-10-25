@@ -1,3 +1,8 @@
+/*
+Receba a cotação do dólar em reais e um valor que o usuário possui em dólares.
+Imprima este valor em reais.
+*/
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
