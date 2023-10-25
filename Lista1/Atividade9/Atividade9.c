@@ -1,3 +1,9 @@
+/*
+Receba os valores dos dois catetos de um triângulo, calcule e apresente o valor da
+hipotenusa. OBS - Teorema de Pitágoras: a
+2 = b2 + c2
+*/
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
