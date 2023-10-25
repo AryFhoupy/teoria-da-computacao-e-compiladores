@@ -8,16 +8,16 @@ salário, sabendo-se que ele teve um aumento de 25%.
 
 int main() {
 
-float Salario;
-
-printf("Infome qual o seu salário atual, por gentileza: ");
-scanf("%f/n", &Salario);
-
-float Aumento = Salario * 0.25;
-float NovoSalario = Salario + Aumento;
-
-printf("Seu novo salário é: %.2f\n", NovoSalario);
-
-return 0;
+    float Salario;
+    
+    printf("Infome qual o seu salário atual, por gentileza: ");
+    scanf("%f/n", &Salario);
+    
+    float Aumento = Salario * 0.25;
+    float NovoSalario = Salario + Aumento;
+    
+    printf("Seu novo salário é: %.2f\n", NovoSalario);
+    
+    return 0;
 
 }
