@@ -1,3 +1,10 @@
+/*
+Receba o peso de uma pessoa, calcule e apresente o novo peso:
+
+a. Se a pessoa engordar 15%.
+b. Se a pessoa emagrecer 20%.
+*/
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
