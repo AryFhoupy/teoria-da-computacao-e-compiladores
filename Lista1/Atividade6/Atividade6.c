@@ -1,3 +1,8 @@
+/*
+Receba uma temperatura em Celsius, calcule e mostre essa temperatura em Fahrenheit.
+OBS: F = (C * 1,8) + 32.
+*/
+
 #include <stdio.h>//printf (), scanf().
 #include <math.h>//pow().
 
